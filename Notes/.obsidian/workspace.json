@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0713f7c0ddf2f140",
+        "id": "4fb52ce7ee14ddac",
         "type": "tabs",
         "children": [
           {
-            "id": "f2513816ec2d4511",
+            "id": "51fe7b9e7850bb1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1.md",
+                "file": "Regression Model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week 1.md",
+                "file": "Regression Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week 1.md",
+                "file": "Regression Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week 1.md"
+                "file": "Regression Model.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2513816ec2d4511",
+  "active": "51fe7b9e7850bb1f",
   "lastOpenFiles": [
+    "Week 1/Overview.md",
+    "Regression Model.md",
+    "Week 1",
     "General.md",
-    "Week 1.md",
     "Section 14 - React.js 101 - beginners.md",
     "Section 15 - Intermediate React - functional components.md"
   ]

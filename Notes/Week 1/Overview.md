@@ -19,7 +19,7 @@
 
 ### Supervised vs. Unsupervised Machine Learning
 - Field of study that gives computers the ability to learn without being explicitly programmed.
-	- Arthur Samule (1959)
+	- Arthur Samuel (1959)
 - Two main types of ML
 	- Supervised learning
 		- Used most in real-world applications
@@ -53,7 +53,6 @@
 		- Predicting a small amount of categories (vs regression that predicts any number out of any possible output)
 		- Outputs are called classes or categories
 		- Creates some sort of boundary from the categories
-
 
 ### Unsupervised learning
 - Most widely used form of ML
